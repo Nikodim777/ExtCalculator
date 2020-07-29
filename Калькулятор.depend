@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1561563468 source:c:\users\я\desktop\Практика\Калькулятор\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windowsx.h>
+	"Calculator.h"
+	"resources.h"
+
+1561562758 c:\users\я\desktop\Практика\Калькулятор\resources.h
+	<windows.h>
+
+1561562585 source:c:\users\я\desktop\Практика\Калькулятор\resources.rc
+	"resources.h"
+
+1560709499 source:c:\users\я\desktop\Практика\Калькулятор\calculator.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Calculator.h"
+
+1561561561 c:\users\я\desktop\Практика\Калькулятор\calculator.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561563189 source:c:\users\я\desktop\Практика\Калькулятор\calculator.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<math.h>
+	"Calculator.h"
+
+1561563468 source:c:\users\я\desktop\Данные\Учёба\2 курс\Практика\Калькулятор\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windowsx.h>
+	"Calculator.h"
+	"resources.h"
+
+1561561561 c:\users\я\desktop\Данные\Учёба\2 курс\Практика\Калькулятор\calculator.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561562758 c:\users\я\desktop\Данные\Учёба\2 курс\Практика\Калькулятор\resources.h
+	<windows.h>
+
+1561562585 source:c:\users\я\desktop\Данные\Учёба\2 курс\Практика\Калькулятор\resources.rc
+	"resources.h"
+
+1596045365 source:d:\Данные\Учёба\2 курс\Практика\Калькулятор\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windowsx.h>
+	"definitions.h"
+	"Calculator.h"
+	"resources.h"
+
+1596048200 d:\Данные\Учёба\2 курс\Практика\Калькулятор\calculator.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561562758 d:\Данные\Учёба\2 курс\Практика\Калькулятор\resources.h
+	<windows.h>
+
+1561562585 source:d:\Данные\Учёба\2 курс\Практика\Калькулятор\resources.rc
+	"resources.h"
+
+1596048200 source:d:\Данные\Учёба\2 курс\Практика\Калькулятор\calculator.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<math.h>
+	"definitions.h"
+	"Calculator.h"
+
+1596043014 d:\Данные\Учёба\2 курс\Практика\Калькулятор\definitions.h
+
